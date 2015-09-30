@@ -1,0 +1,28 @@
+{
+  "name": "scrapper-x",
+  "version": "1.0.0",
+  "description": "A node js module to scrape data in json format from list like contents from webpages",
+  "main": "scrapper-x.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/master-atul/scrapper-x.git"
+  },
+  "keywords": [
+    "npm",
+    "module",
+    "nodejs",
+    "node.js",
+    "scrapper",
+    "scrapper-x",
+    "node-scrapper"
+  ],
+  "author": "Atul R <atulanand94@gmail.com> (http://atulr.com)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/master-atul/scrapper-x/issues"
+  },
+  "homepage": "https://github.com/master-atul/scrapper-x#readme"
+}
