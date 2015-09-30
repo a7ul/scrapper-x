@@ -1,6 +1,6 @@
 var express = require('express');
 var router = express.Router();
-var sX = require('../scripts/scrapperX');
+var sX = require('scrapper-x');
 var request = require('request');
 
 var config = {
