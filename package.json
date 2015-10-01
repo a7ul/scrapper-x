@@ -1,6 +1,6 @@
 {
   "name": "scrapper-x",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A node js module to scrape data in json format from list like contents from webpages",
   "main": "scrapper-x.js",
   "scripts": {
